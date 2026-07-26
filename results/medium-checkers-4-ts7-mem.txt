@@ -1,18 +1,18 @@
 	Command being timed: "npm run --silent ts7 -- --noEmit -p fixtures/synthetic/medium --checkers 4"
-	User time (seconds): 0.78
-	System time (seconds): 0.06
-	Percent of CPU this job got: 175%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.47
+	User time (seconds): 0.87
+	System time (seconds): 0.05
+	Percent of CPU this job got: 188%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.49
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 141060
+	Maximum resident set size (kbytes): 143252
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 11616
-	Voluntary context switches: 542
-	Involuntary context switches: 108
+	Minor (reclaiming a frame) page faults: 11730
+	Voluntary context switches: 574
+	Involuntary context switches: 138
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 8
