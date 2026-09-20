@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T04:36:24.684Z",
+    "generatedAt": "2026-09-20T04:44:15.740Z",
     "ts6Version": "6.0.3",
     "ts7Version": "7.0.2",
     "runner": {
       "platform": "linux",
       "arch": "x64",
-      "cpuModel": "AMD EPYC 7763 64-Core Processor",
+      "cpuModel": "AMD EPYC 9V74 80-Core Processor",
       "cpuCount": 4,
       "totalMemoryMb": 15990
     }
@@ -16,192 +16,192 @@
       "fixture": "large",
       "checkers": 1,
       "ts6": {
-        "meanSec": 3.10258857482,
-        "medianSec": 3.10181751772,
-        "stddevSec": 0.024910559979765975,
-        "memoryKb": 650948
+        "meanSec": 2.8605051636,
+        "medianSec": 2.8498873497000003,
+        "stddevSec": 0.05132616045605072,
+        "memoryKb": 668156
       },
       "ts7": {
-        "meanSec": 1.19871961404,
-        "medianSec": 1.19561622754,
-        "stddevSec": 0.011082550910851053,
-        "memoryKb": 358628
+        "meanSec": 1.09120485988,
+        "medianSec": 1.0891582878800001,
+        "stddevSec": 0.029751680567217026,
+        "memoryKb": 378620
       }
     },
     {
       "fixture": "large",
       "checkers": 4,
       "ts6": {
-        "meanSec": 3.10258857482,
-        "medianSec": 3.10181751772,
-        "stddevSec": 0.024910559979765975,
-        "memoryKb": 650948
+        "meanSec": 2.8605051636,
+        "medianSec": 2.8498873497000003,
+        "stddevSec": 0.05132616045605072,
+        "memoryKb": 668156
       },
       "ts7": {
-        "meanSec": 0.8638955956200001,
-        "medianSec": 0.8657331075200001,
-        "stddevSec": 0.023630089723357606,
-        "memoryKb": 383272
+        "meanSec": 0.7461403915600001,
+        "medianSec": 0.7540148093600001,
+        "stddevSec": 0.01694142453742425,
+        "memoryKb": 393676
       }
     },
     {
       "fixture": "large",
       "checkers": 8,
       "ts6": {
-        "meanSec": 3.10258857482,
-        "medianSec": 3.10181751772,
-        "stddevSec": 0.024910559979765975,
-        "memoryKb": 650948
+        "meanSec": 2.8605051636,
+        "medianSec": 2.8498873497000003,
+        "stddevSec": 0.05132616045605072,
+        "memoryKb": 668156
       },
       "ts7": {
-        "meanSec": 0.8588026332600001,
-        "medianSec": 0.86304918686,
-        "stddevSec": 0.018831559565885538,
-        "memoryKb": 414128
+        "meanSec": 0.7770995582800001,
+        "medianSec": 0.7729642429800001,
+        "stddevSec": 0.019711832510358965,
+        "memoryKb": 411976
       }
     },
     {
       "fixture": "medium",
       "checkers": 1,
       "ts6": {
-        "meanSec": 1.6322933971200002,
-        "medianSec": 1.63032941762,
-        "stddevSec": 0.017429485557425323,
-        "memoryKb": 352664
+        "meanSec": 1.4860438555800002,
+        "medianSec": 1.48355048468,
+        "stddevSec": 0.025313433911676012,
+        "memoryKb": 346048
       },
       "ts7": {
-        "meanSec": 0.53169303832,
-        "medianSec": 0.5315615811200001,
-        "stddevSec": 0.01001823275461021,
-        "memoryKb": 132508
+        "meanSec": 0.47207430541999995,
+        "medianSec": 0.46616129462,
+        "stddevSec": 0.015400488868940722,
+        "memoryKb": 130652
       }
     },
     {
       "fixture": "medium",
       "checkers": 4,
       "ts6": {
-        "meanSec": 1.6322933971200002,
-        "medianSec": 1.63032941762,
-        "stddevSec": 0.017429485557425323,
-        "memoryKb": 352664
+        "meanSec": 1.4860438555800002,
+        "medianSec": 1.48355048468,
+        "stddevSec": 0.025313433911676012,
+        "memoryKb": 346048
       },
       "ts7": {
-        "meanSec": 0.4808620499399999,
-        "medianSec": 0.48217228554,
-        "stddevSec": 0.007533703681178092,
-        "memoryKb": 141148
+        "meanSec": 0.4377983422200001,
+        "medianSec": 0.43948615292000004,
+        "stddevSec": 0.006821073123002265,
+        "memoryKb": 139116
       }
     },
     {
       "fixture": "medium",
       "checkers": 8,
       "ts6": {
-        "meanSec": 1.6322933971200002,
-        "medianSec": 1.63032941762,
-        "stddevSec": 0.017429485557425323,
-        "memoryKb": 352664
+        "meanSec": 1.4860438555800002,
+        "medianSec": 1.48355048468,
+        "stddevSec": 0.025313433911676012,
+        "memoryKb": 346048
       },
       "ts7": {
-        "meanSec": 0.4649349373800001,
-        "medianSec": 0.46316210308000005,
-        "stddevSec": 0.009068435545503116,
-        "memoryKb": 153640
+        "meanSec": 0.42063807394,
+        "medianSec": 0.42148252214000004,
+        "stddevSec": 0.007850059844664633,
+        "memoryKb": 147072
       }
     },
     {
       "fixture": "real-world",
       "checkers": 1,
       "ts6": {
-        "meanSec": 10.16640954656,
-        "medianSec": 10.14974662746,
-        "stddevSec": 0.1957391750398171,
-        "memoryKb": 1208776
+        "meanSec": 9.300682821,
+        "medianSec": 9.314208474,
+        "stddevSec": 0.19568537628556648,
+        "memoryKb": 1220128
       },
       "ts7": {
-        "meanSec": 3.45590678548,
-        "medianSec": 3.44536212898,
-        "stddevSec": 0.08390861520639865,
-        "memoryKb": 762856
+        "meanSec": 3.0727542477,
+        "medianSec": 3.0510361293,
+        "stddevSec": 0.06282152230758829,
+        "memoryKb": 775184
       }
     },
     {
       "fixture": "real-world",
       "checkers": 4,
       "ts6": {
-        "meanSec": 10.16640954656,
-        "medianSec": 10.14974662746,
-        "stddevSec": 0.1957391750398171,
-        "memoryKb": 1208776
+        "meanSec": 9.300682821,
+        "medianSec": 9.314208474,
+        "stddevSec": 0.19568537628556648,
+        "memoryKb": 1220128
       },
       "ts7": {
-        "meanSec": 2.53933179494,
-        "medianSec": 2.55381905114,
-        "stddevSec": 0.08022708383974693,
-        "memoryKb": 1060032
+        "meanSec": 2.2701627783800005,
+        "medianSec": 2.3043511863800004,
+        "stddevSec": 0.07357753045817003,
+        "memoryKb": 1055680
       }
     },
     {
       "fixture": "real-world",
       "checkers": 8,
       "ts6": {
-        "meanSec": 10.16640954656,
-        "medianSec": 10.14974662746,
-        "stddevSec": 0.1957391750398171,
-        "memoryKb": 1208776
+        "meanSec": 9.300682821,
+        "medianSec": 9.314208474,
+        "stddevSec": 0.19568537628556648,
+        "memoryKb": 1220128
       },
       "ts7": {
-        "meanSec": 3.04135169834,
-        "medianSec": 3.08532458244,
-        "stddevSec": 0.12929307896226752,
-        "memoryKb": 1251392
+        "meanSec": 2.6311769914600003,
+        "medianSec": 2.66682749006,
+        "stddevSec": 0.09622966228622042,
+        "memoryKb": 1237088
       }
     },
     {
       "fixture": "small",
       "checkers": 1,
       "ts6": {
-        "meanSec": 1.40511343968,
-        "medianSec": 1.38089579628,
-        "stddevSec": 0.057876499734829834,
-        "memoryKb": 313080
+        "meanSec": 1.24719332028,
+        "medianSec": 1.2483600642800001,
+        "stddevSec": 0.015660757704767807,
+        "memoryKb": 313604
       },
       "ts7": {
-        "meanSec": 0.43296118874000006,
-        "medianSec": 0.43228565864,
-        "stddevSec": 0.006049437531738899,
-        "memoryKb": 97516
+        "meanSec": 0.39220324224,
+        "medianSec": 0.38965706324000005,
+        "stddevSec": 0.010507070740465026,
+        "memoryKb": 99240
       }
     },
     {
       "fixture": "small",
       "checkers": 4,
       "ts6": {
-        "meanSec": 1.40511343968,
-        "medianSec": 1.38089579628,
-        "stddevSec": 0.057876499734829834,
-        "memoryKb": 313080
+        "meanSec": 1.24719332028,
+        "medianSec": 1.2483600642800001,
+        "stddevSec": 0.015660757704767807,
+        "memoryKb": 313604
       },
       "ts7": {
-        "meanSec": 0.4197700739400001,
-        "medianSec": 0.41901178674000006,
-        "stddevSec": 0.003535439181815439,
-        "memoryKb": 101528
+        "meanSec": 0.38588434098,
+        "medianSec": 0.38614777928000005,
+        "stddevSec": 0.007360709031306071,
+        "memoryKb": 101532
       }
     },
     {
       "fixture": "small",
       "checkers": 8,
       "ts6": {
-        "meanSec": 1.40511343968,
-        "medianSec": 1.38089579628,
-        "stddevSec": 0.057876499734829834,
-        "memoryKb": 313080
+        "meanSec": 1.24719332028,
+        "medianSec": 1.2483600642800001,
+        "stddevSec": 0.015660757704767807,
+        "memoryKb": 313604
       },
       "ts7": {
-        "meanSec": 0.42501705790000005,
-        "medianSec": 0.4244602862000001,
-        "stddevSec": 0.006932312195978878,
-        "memoryKb": 101648
+        "meanSec": 0.38562332000000005,
+        "medianSec": 0.3839942767000001,
+        "stddevSec": 0.009543705061376116,
+        "memoryKb": 103548
       }
     }
   ]
